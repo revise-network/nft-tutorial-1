@@ -1,1 +1,2 @@
-# nft-tutorial-1
+# nft-tutorial
+Starter tutorial boilerplate for NFT
